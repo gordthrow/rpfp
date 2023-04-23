@@ -1,0 +1,72 @@
+{
+  "question1": [
+    "Q1. What did Athena offer to the Athenians?",
+    "Q2. Who was the first legislator of Athens?",
+    "Q3. Under which leader was the Parthenon constructed?",
+    "Q4. When was the acropolis destroyed by the Persians?"
+  ],
+  "answer1": [
+    1,
+    2,
+    3,
+    2
+  ],
+  "options1": [
+
+    ["Olive Tree",
+      "Salt Water Spring",
+      "Horse",
+      "Owl"
+    ],
+    ["Solon",
+      "Draco",
+      "Peisistratus",
+      "Pausanias"
+    ],
+    ["Themistocles",
+      "Cimon",
+      "Pericles",
+      "Hippias"
+    ],
+    ["490",
+      "480",
+      "499",
+      "468"
+    ]
+  ],
+  "question2": [
+    "Q1. What was Korkira?",
+    "Q2. Who helped Corfu against Corinth?",
+    "Q3. When did Corfu become part of Greece?",
+    "Q4. Who hasn't controlled Corfu?"
+  ],
+  "answer2": [
+    3,
+    4,
+    1,
+    3
+  ],
+  "options2": [
+
+    ["river",
+      "goddess",
+      "nymph",
+      "mountain"
+    ],
+    ["Romans",
+      "Macedonians",
+      "Sparta",
+      "Athens"
+    ],
+    ["1864",
+      "1799",
+      "1859",
+      "1838"
+    ],
+    ["Venice",
+      "France",
+      "Russia",
+      "England"
+    ]
+  ]
+}

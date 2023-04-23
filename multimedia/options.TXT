@@ -1,0 +1,6 @@
+width=1280
+height=1024
+volume=0.31970260223048325
+backround_music=background_music.MP3
+next_button=next_button.WAV
+back_button=back_button.WAV
